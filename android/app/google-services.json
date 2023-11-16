@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82806746003",
+    "project_id": "ifa-11312136",
+    "storage_bucket": "ifa-11312136.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82806746003:android:72f4d8ddf78ca823e45666",
+        "android_client_info": {
+          "package_name": "com.example.ifa_11312136"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRDYsmGtUHTD7dekjElFWuxhYYjsbkQtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
